@@ -1,0 +1,2 @@
+
+jmeter -n -t /Users/fendyridwan/Documents/Project/GENFLIX/PerformanceTesting/LoadTest.jmx -l /Users/fendyridwan/Documents/Project/GENFLIX/PerformanceTesting/CSV/login1000user2.csv -e -o /Users/fendyridwan/Documents/Project/GENFLIX/PerformanceTesting/Summary_Result/ResultProd1/login1000user2
